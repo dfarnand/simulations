@@ -1,8 +1,4 @@
-##########################
-# Daniel Farnand         #
-# Probability Practicum  #
-# Homework 3             #
-##########################
+# Solves the birthday problem using simulation
 
 number_sims <- 10000 #How many simulations to use as
 max_group_size <- 50 #Graphing probability for groups of 1 to this number
